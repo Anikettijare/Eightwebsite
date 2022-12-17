@@ -141,6 +141,10 @@
     font-size: 20px;
     border-radius: 5px;
 }
+.buy-btn a:hover{
+    background-color: #414744;
+    color: #f26522;
+}
 .controls{
     text-align: center;
     padding: 30px;
