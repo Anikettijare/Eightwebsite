@@ -113,7 +113,7 @@
 .dropdown2 .drop{
     display: none;
 }
-.navbar .dropdown2:hover .drop{
+.navbar .lo-main:hover .drop{
     display: block;
     position: absolute;
     background-color: #fff;
